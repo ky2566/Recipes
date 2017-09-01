@@ -6,8 +6,6 @@ import  { HeaderComponent } from './header.component';
   selector: 'rb-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
-  Directives: [HeaderComponent]
 })
 export class AppComponent {
-  
 }
